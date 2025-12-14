@@ -643,7 +643,7 @@
                                     <i class="bi bi-pencil"></i> Edit
                                 </a>
                                 <a href="admin.php?hapus=<?php echo $d['id']; ?>" class="btn-action btn-delete" onclick="return confirm('Yakin ingin menghapus?')">
-                                    <i class="bi bi-trash"></i> Delete
+                                    <i class="bi bi-trash"></i> Hapus
                                 </a>
                             </td>
                         </tr>
