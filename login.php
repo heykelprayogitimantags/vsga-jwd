@@ -447,14 +447,14 @@ if (isset($_POST['login'])) {
             }
         }
 
-        // Add loading state on form submit
+      
         document.getElementById('loginForm').addEventListener('submit', function() {
             const btn = document.getElementById('loginBtn');
             btn.classList.add('loading');
             btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Memproses...';
         });
 
-        // Auto-focus on first input
+       
         window.addEventListener('load', function() {
             document.querySelector('input[name="username"]').focus();
         });
