@@ -668,7 +668,7 @@ include 'koneksi.php';
                     Mulai Sekarang <i class="bi bi-arrow-right ms-2"></i>
                 </a>
                 <a href="#produk" class="btn btn-hero btn-hero-secondary">
-                    <i class="bi bi-play-circle me-2"></i> Lihat Layanan
+                    <i class="bi bi-play-circle me-2"></i> Layanan Kami..
                 </a>
             </div>
         </div>
